@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruabas en el componente de pruebas Deve de mostrar <PrimeraApp/> corractamente 1`] = `
+<div>
+  <h1
+    style={
+      Object {
+        "color": "#fff",
+      }
+    }
+  >
+    hi my name is eury
+  </h1>
+  <span>
+    Soy el jefe
+  </span>
+</div>
+`;

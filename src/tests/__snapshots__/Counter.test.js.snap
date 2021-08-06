@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prebas en el componente Counter app Deve de mostrar <CounterApp/> correctamente (hacer macht con un snapshot) 1`] = `
+<div
+  className="container"
+>
+  <header
+    className="header"
+  >
+    <h1>
+      React is amazing!
+    </h1>
+  </header>
+  <h2>
+    100
+  </h2>
+  <div
+    className="conter-div"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Sumar
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Restar
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Reset
+    </button>
+  </div>
+</div>
+`;
